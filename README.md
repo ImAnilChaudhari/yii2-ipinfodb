@@ -1,4 +1,4 @@
-Yii2 ipinfo db
+Yii2 ipinfo db [ under development ]
 ==============
 An extensions for ipionfodb. Which returns the location of an IP address (country, region, city, zipcode, latitude and longitude) and the associated timezone in JSON format.
 
